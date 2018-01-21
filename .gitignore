@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConduitSQLToOdataAPI/.vs
+/ConduitWebApp/testmvcapp/testmvcapp/bin
+/ConduitWebApp/testmvcapp/testmvcapp/Properties/PublishProfiles
+/ConduitWebApp/testmvcapp/testmvcapp/obj/Release/Package/PackageTmp
