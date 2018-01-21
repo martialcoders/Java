@@ -1,6 +1,8 @@
+import java.util.Date;
+
 public class Main {
     public static void main(String[] args) {
-        // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, World");
+        System.out.println("Ray is supper cool!!!!!!!");
+        System.out.println("Ray is the best!!!");
     }
 }
